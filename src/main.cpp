@@ -2,6 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout<<"test";
+    std::cerr<<"test";
+    
     return 0;
 }
